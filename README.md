@@ -37,7 +37,7 @@ TransProQA/
 ## Getting Started
 
 ### TranProQA Overview
-![TransproQA summary](Fig/figure1.pdf)
+![TransproQA summary](Fig/figure1.png)
 
 ### Prerequisites
 
