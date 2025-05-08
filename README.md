@@ -3,7 +3,7 @@
 TransProQA is an LLM-based QA metric for literary translation evaluation. 
 
 ## News:
- - 08.05.2025: Preliminary release of code and dataset (copyright-free).
+ - 08.05.2025: First release of important code and copyright-free dataset (copyrighted data, complete codes, and reproducible pipeline with full data will be updated shortly).
 
 ## Project Structure
 
