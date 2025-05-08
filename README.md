@@ -2,6 +2,9 @@
 
 TransProQA is an LLM-based QA metric for literary translation evaluation. 
 
+## News:
+ - 08.05.2025: Preliminary release of code and dataset (copyright-free).
+
 ## Project Structure
 
 ```
@@ -32,6 +35,9 @@ TransProQA/
   - Other SOTA metrics
 
 ## Getting Started
+
+### TranProQA Overview
+![TransproQA summary](Fig/figure1.pdf)
 
 ### Prerequisites
 
