@@ -1,6 +1,6 @@
-# TransProQA
+# LitTransProQA
 
-TransProQA is an LLM-based QA metric for literary translation evaluation. 
+LitTransProQA is an LLM-based QA metric for literary translation evaluation. 
 
 ## News:
  - 08.05.2025: First release of important code and copyright-free dataset (copyrighted data, complete codes, and reproducible pipeline with full data will be updated shortly).
@@ -8,7 +8,7 @@ TransProQA is an LLM-based QA metric for literary translation evaluation.
 ## Project Structure
 
 ```
-TransProQA/
+LitTransProQA/
 ├── datasets/                    # Dataset directory
 │   ├── finetuning_dataset/     # Datasets for model fine-tuning
 │   └── evaluation_set/         # Datasets for evaluation
@@ -31,13 +31,13 @@ TransProQA/
 
 - **Multiple Assessment Methods**:
   - Fine-tuning based approaches using XCOMET
-  - Prompt-based TransProQA: question-answering based translation evaluation
+  - Prompt-based LitTransProQA: question-answering based translation evaluation
   - Other SOTA metrics
 
 ## Getting Started
 
 ### TranProQA Overview
-![TransproQA summary](Fig/figure1.png)
+![LitTransproQA summary](Fig/figure1.png)
 
 ### Prerequisites
 
