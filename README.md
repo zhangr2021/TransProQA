@@ -58,5 +58,13 @@ This project is licensed under the MIT License.
 If you use this code in your research, please cite:
 
 ```bibtex
-To be updated
+@misc{zhang2025litransproqallmbasedliterarytranslation,
+      title={LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering}, 
+      author={Ran Zhang and Wei Zhao and Lieve Macken and Steffen Eger},
+      year={2025},
+      eprint={2505.05423},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.05423}, 
+}
 ```
