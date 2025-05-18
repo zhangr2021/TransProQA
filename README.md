@@ -36,7 +36,7 @@ LitTransProQA/
 
 ## Getting Started
 
-### TranProQA Overview
+### LiTranProQA Overview
 ![LitTransproQA summary](Fig/figure1.png)
 
 ### Prerequisites
